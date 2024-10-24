@@ -1,5 +1,6 @@
 // main package has examples shown
 // in Go Data Structures and algorithms book
+// this one uses goroutines and channels to compare concurrency and sequential processing
 package main
 
 // importing fmt package

@@ -9,6 +9,9 @@ import (
 	"time"
 )
 
+// A tuple is a finite sorted list of elements. It is a data structure that
+// groups data. Tuples are  typically immutable sequential collections.
+// The element has related fields of different  datatypes.
 type tuple struct {
 	squr int
 	cube int
